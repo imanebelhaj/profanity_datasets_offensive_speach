@@ -3,9 +3,11 @@
 This repository contains datasets for profanity detection in various languages. 
 The datasets are sourced from the resources listed below and have been cleaned and organized into three columns: `text`, `label` (insult/non-insult), and `language`. 
 It aims to provide a comprehensive resource for developers working on content moderation and language processing projects.
-<p style="color: #4CAF50;">
-The datasets involve a comprehensive data preparation process, which is crucial in the field of Data Science and Machine Learning. This includes collecting datasets, cleaning them, merging them, and organizing them into structured formats. Such preparation is essential for ensuring the accuracy and usability of data for analysis and model training in various applications, including content moderation and language processing.
-</p>
+
+## About the Data Preparation Process
+
+🟢 **The datasets involve a comprehensive data preparation process, which is crucial in the field of Data Science and Machine Learning. This includes collecting datasets, cleaning them, merging them, and organizing them into structured formats. Such preparation is essential for ensuring the accuracy and usability of data for analysis and model training in various applications, including content moderation and language processing.**
+
 
 ## Datasets
 
