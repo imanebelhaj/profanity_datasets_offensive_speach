@@ -1,0 +1,3 @@
+processed_darija_dataset : morocccan darija
+processed bad words : Arabic (ar): العربية, English (en): English, Czech (cs): Čeština, Danish (da): Dansk, German (de): Deutsch, Esperanto (eo): speranto
+bad_words_langs : French (fr),Turkish (tr), Italian (it), Russian (ru), Spanish (es), Portugalian (pt)
